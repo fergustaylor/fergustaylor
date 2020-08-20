@@ -4,6 +4,10 @@ My name's Fergus, I'm a Doctor working in Scotland. I'm spending the next 8 mont
 
 I'm interested in Plastic Surgery and Medical Education, and I learned to code at Medical School.
 
+You can find me on Twitter [@ferguswtaylor](https://twitter.com/ferguswtaylor)
+
+Or see more of my work at [fergustaylor.github.io](https://fergustaylor.github.io/)
+
 <!--
 #### Some things I'm proud of:
 
