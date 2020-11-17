@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Fergus, I'm a Doctor working in Scotland. I'm spending the next 8 months in acute medicine, followed by 4 months of research time to complete the Academic Foundation Programme.
+I'm Fergus, a Doctor working in Scotland. I'm spending the next 8 months in acute medicine, followed by 4 months of research time to complete the Academic Foundation Programme.
 
 I'm interested in Plastic Surgery and Medical Education, and I learned to code at Medical School.
 
